@@ -1,5 +1,5 @@
 function home(){
-    return <h1>Se vocé não é o shrek de uma risada</h1>
+    return <h1>Estou aprendendo ingles e o primeiro filme que eu assitir em ingles foi shrek</h1>
 }
 
 export default home;
